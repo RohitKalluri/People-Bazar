@@ -1,2 +1,7 @@
 # People-Bazar
-Select the category of the product and enter name of the product. Once you click on the view items button , the products which are available on flipkart , snapdeal , paytm mall will be displayed below. This list is same as the search results of the product in the respective sites.
+A Web Application which scraps data from Flipkart, Snapdeal and other 
+
+E-Commerce websites available online and displays the product details 
+searched by the user. Implemented Using Beautiful Soup python module 
+and integrated using Flask Backend Framework (Python) to the Html 
+(Bootstrap) and CSS Frontend.
